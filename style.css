@@ -1,4 +1,10 @@
-
+.body {
+    backgroud:radial-gradient(ellipse, red,green);
+    background-repeat: no-repeat;
+    height:100%;
+    margin:0;
+    background-attachment: fixed;
+}
 .menu {
     list-style: none;
     padding: 0;
